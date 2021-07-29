@@ -13,3 +13,11 @@ Three images :
 1) Decresing line plot of durations with time of a example dataset.
 2) Scatter plot without categorizing.
 3) Scatter plot with categorizing.
+
+Language used : 
+Python with 
+1) Pandas library for extracting and manipulating the data and
+2) Matplotlib for getting the line and scatter plots.
+3) Matplotlib.pyplot for plotting the data and
+4) Matplotlib.patches for getting multiple labels for the legend.
+ 
